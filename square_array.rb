@@ -6,7 +6,7 @@
 
 def square_array_collect(array)
   array.collect{|number| number ** 2}
-  aray
+  array
 end
 
 print square_array_collect([1,2,3])
