@@ -4,5 +4,3 @@ def square_array(array)
   end
   new_array
 end
-
-print square_array([1,2,3])
