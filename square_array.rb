@@ -6,4 +6,3 @@ end
 
 
 array.collect{|number| number ** 2}
-
